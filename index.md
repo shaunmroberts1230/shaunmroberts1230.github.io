@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h2>If you came here from my <a href="http://shaunmroberts.com">personal site</a>, bless you.</h2>
+<p>Why not have a look around now that you're here?  And... you're done.</p>
