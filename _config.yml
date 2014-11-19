@@ -1,5 +1,6 @@
 name: Shaun's Blog
-
+description: A reverie from the monotony of a reality where food is still at least as important as thoughts
+author: Shaun M. Roberts
 defaults:
   -
     scope:
